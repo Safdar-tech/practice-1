@@ -1,4 +1,4 @@
 # practice-1
 This is my first Git Repository.
 <br>
-Author- Safdar raza
+Author- Safdar raza (Tech)
